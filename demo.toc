@@ -1,0 +1,4 @@
+## Interface: (Your Interface number)
+## Title: Demo Addon
+## Author: @Notumforce
+## Version: 0.01a
